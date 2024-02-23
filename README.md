@@ -21,3 +21,4 @@
   - [영속성 관리](https://spark-earwig-6da.notion.site/JPA-6b67d96217ad426a9519f0169689d7db?pvs=4)
   - [flush](https://spark-earwig-6da.notion.site/JPA-flush-e799e1b816a745fd99c6194984a431a4?pvs=4)  
   - [JPA 기본 생성자가 필요한 이유](https://www.notion.so/05_JPA-e3a36c86ab804028b9fbd9500b6b05e5?pvs=4)
+  - [JPA Entity, 연관관계, 영속성전이, 고아객체](https://www.notion.so/06_JPA-Entity-Entity-b3020a69932848119b7d5da8cf42253a?pvs=4)
